@@ -11,3 +11,6 @@ Aqui et deixo les meves xarxes socials:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/marc_q.f)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/MarcQueral)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/)
+
+Visca el Barça!!
+![image](https://user-images.githubusercontent.com/91157537/155321567-867a1600-660e-405b-940c-66416986ed0e.png)
