@@ -1,5 +1,9 @@
 Benvingut/da, aquest és el meu perfil de GitHub!!
+Em dic Marc Queral, visc a Camarles i tinc 18 anys.
 
+  - M'agrada molt l'esport, sobretot el futbol i el meu jugador preferit és Leo Messi
+  - Estic estudiant ASIX/DAM a IES de l'Ebre
+  - Em pots parlar pel correu: mqueral@iesebre.com
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
