@@ -13,4 +13,4 @@ Aqui et deixo les meves xarxes socials:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/)
 
 Visca el Barça!!
-/home/alumne/Imatges/1355976_Wallpaper2.webp
+![image](https://user-images.githubusercontent.com/91157537/161012780-82ba4f9a-972f-4d53-9d6b-0de186beb888.png)
